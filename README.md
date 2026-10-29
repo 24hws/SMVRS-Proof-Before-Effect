@@ -6,9 +6,9 @@ SMVRS (Signed Machine-Verifiable Record Systems & Services) explores portable si
 
 ## Read the complete public technical documentation (30 pages each)
 
-- [English — Public Technical Companion (30 pages)](docs/SMVRS_Edison_2027_Technical_Companion_EN_30p.pdf)
-- [中文 — 公开技术与发明说明（30页）](docs/SMVRS_Edison_2027_Technical_Companion_ZH_30p.pdf)
-- [Français — Dossier technique public (30 pages)](docs/SMVRS_Edison_2027_Technical_Companion_FR_30p.pdf)
+- [English — Public Technical Companion (30 pages)](SMVRS_Edison_2027_Technical_Companion_EN_30p.pdf)
+- [中文 — 公开技术与发明说明（30页）](SMVRS_Edison_2027_Technical_Companion_ZH_30p.pdf)
+- [Français — Dossier technique public (30 pages)](SMVRS_Edison_2027_Technical_Companion_FR_30p.pdf)
 
 All three documents cover Edison Award review dimensions **Concept, Value, and Impact**, technical architecture, controlled verification experiments, patent application references, and the project's intended broader applications.
 
